@@ -12,5 +12,5 @@ This game contains the following
   * Help section that explains the rules
   * Exit game 
 
-##Future Additions
+## Future Additions
    * Implement advanced levels
